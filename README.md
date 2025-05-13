@@ -1,4 +1,4 @@
-## Hi, I'm Yinzw 👋
+## Hi, I'm Yinze 👋
 
 I'm a software engineer and passionate about building elegant, performant web applications. I care deeply about user experience, maintainable code, and design systems that scale.
 
