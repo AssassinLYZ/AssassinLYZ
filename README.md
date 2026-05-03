@@ -2,7 +2,7 @@
 
 I'm a software engineer and passionate about building elegant, performant web applications. I care deeply about user experience, maintainable code, and design systems that scale.
 
-- 🌐 Portfolio: [liuyinze.xyz](https://liuyinze.xyz)
+- 🌐 Portfolio: [[liuyinze.xyz](https://liuyinze.xyz)](https://lyz-profilio.vercel.app/)
 - 💼 LinkedIn: [linkedin.com/in/ericxdev](https://www.linkedin.com/in/ericxdev/)
 - 🛠 Tech stack: React, TypeScript, Node.js, GraphQL, Figma, etc
 - 🧠 Interests: design systems, developer experience, UI performance
